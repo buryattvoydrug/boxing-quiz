@@ -10,7 +10,6 @@ function App() {
         <div className="container">
           <Header/>
           <Quiz/>
-          <Footer/>
         </div>
       </div>
     </>

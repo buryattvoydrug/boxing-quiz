@@ -1,0 +1,31 @@
+{
+  "questions" : [
+    {
+      "title": "Сколько лет секции бокса МИСИС?",
+      "variants": ["3 года", "5 лет", "50 лет", "67 лет"],
+      "correct": "50 лет",
+      "description": {
+        "text": "Секция бокса провела первую тренировку еще в 1975 году!",
+        "image": "https://res.cloudinary.com/buryattvoydrug/image/upload/v1630162373/EucjeIEXMAALLSd_yippzv.jpg"
+      }
+    },
+    {
+      "title": "Какой факультет в топе посещений секции бокса в 2022-23 году?",
+      "variants": ["ГИ", "ЭКОТЕХ", "ИНМИН", "ИТКН"],
+      "correct": "ИТКН",
+      "description": {
+        "text": "Традиционно в топе Горный Институт, однако по результатам набора в группу новичков 2022 года лидирует ИТКН.",
+        "image": "https://res.cloudinary.com/buryattvoydrug/image/upload/v1630162373/EucjeIEXMAALLSd_yippzv.jpg"
+      }
+    },
+    {
+      "title": "Является ли бокс массовым видом спорта?",
+      "variants": ["нет", "да"],
+      "correct": "да",
+      "description": {
+        "text": "Бокс входит в топ 10 популярных видов спорта России. Наша секция насчитывает более 50 постоянных посетителей.",
+        "image": "https://res.cloudinary.com/buryattvoydrug/image/upload/v1630162373/EucjeIEXMAALLSd_yippzv.jpg"
+      }
+    }
+  ]
+}
