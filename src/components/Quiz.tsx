@@ -101,7 +101,6 @@ export default function Quiz() {
     const onChangeResult = () => {
         setResult(result + 1)
     }
-    console.log(step, result, questionsList.length)
 
     return (
         <>
